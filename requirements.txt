@@ -3,3 +3,4 @@ python-dotenv==1.0.0
 youtube-transcript-api==0.4.2
 langchain-openai
 requests
+PySocks

@@ -1,4 +1,5 @@
 streamlit==1.24.1
 python-dotenv==1.0.0
 youtube-transcript-api==0.4.2
-langchain_openai
+langchain-openai
+requests
